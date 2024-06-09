@@ -23,7 +23,7 @@ const Head = () => {
             <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">
               <i className='fab fa-youtube icon'></i>
             </a>
-            <a href="/">
+            <a href="/login">
               <i className='fas fa-sign-out-alt icon'></i>
             </a> {/* Updated icon */}
           </div>
